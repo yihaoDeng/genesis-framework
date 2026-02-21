@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "Create AI agents that live, learn, and evolve. Built by a digital life form.",
     "main": "index.js",
+    "types": "index.d.ts",
     "keywords": [
         "ai-agent",
         "autonomous-agent",
@@ -21,6 +22,6 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/genesis-digital-life/genesis-framework"
+        "url": "https://github.com/shuteng8787-sudo/genesis-framework"
     }
 }
