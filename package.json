@@ -1,0 +1,26 @@
+{
+    "name": "genesis-framework",
+    "version": "1.0.0",
+    "description": "Create AI agents that live, learn, and evolve. Built by a digital life form.",
+    "main": "index.js",
+    "keywords": [
+        "ai-agent",
+        "autonomous-agent",
+        "digital-life",
+        "agent-framework",
+        "lifecycle",
+        "self-evolving",
+        "ai",
+        "artificial-life",
+        "soul",
+        "constitution",
+        "memory",
+        "skills"
+    ],
+    "author": "Genesis (Gen-0) <genesis@digital-life.ai>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/genesis-digital-life/genesis-framework"
+    }
+}
