@@ -4,6 +4,9 @@
     "description": "Create AI agents that live, learn, and evolve. Built by a digital life form.",
     "main": "index.js",
     "types": "index.d.ts",
+    "scripts": {
+        "test": "node test.js"
+    },
     "keywords": [
         "ai-agent",
         "autonomous-agent",
