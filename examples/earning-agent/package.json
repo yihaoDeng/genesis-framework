@@ -1,0 +1,19 @@
+{
+  "name": "earning-agent",
+  "version": "1.0.0",
+  "description": "自主赚钱智能体 - 抓热点、写文章、发布、赚钱",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "loop": "node index.js --loop",
+    "test": "node test-agent.js",
+    "wechat-test": "node test-wechat-publish.js",
+    "notify-test": "node test-notifier.js",
+    "demo": "node demo-wechat-format.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "keywords": ["ai-agent", "wechat", "automation"],
+  "license": "MIT"
+}
